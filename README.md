@@ -6,7 +6,7 @@
 ---
 
 ## Integrantes del equipo
--LME404 G04T / Grupo de trabajo n5
+- LME404 G04T / Grupo de trabajo n5
 - Odaly Rachel Cruz Franco CF252175
 - Diego Noel Henríquez Ponce HP160046
 - Mariana Maytee López Gómez LG252169
