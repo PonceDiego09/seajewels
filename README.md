@@ -17,7 +17,7 @@ Aplicación desplegada: [https://seajewels-20.vercel.app/](https://seajewels-20.
 
 ## Manuales
 
-- [Manual de Usuario](URL_DEL_MANUAL_USUARIO)
+- Manual de usuario: [https://drive.google.com/file/d/1_yXXe68sBjs96CcWzZjWhGqbd9lFDDNH/view?usp=drive_link](https://drive.google.com/file/d/1_yXXe68sBjs96CcWzZjWhGqbd9lFDDNH/view?usp=drive_link)
 - [Manual Técnico](URL_DEL_MANUAL_TECNICO)
 
 ---
