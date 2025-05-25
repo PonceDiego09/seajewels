@@ -1,7 +1,7 @@
 # seajewels
 ## Enlace al sitio web 
 
-Aplicación desplegada: [https://miproyecto.netlify.app](https://miproyecto.netlify.app)
+Aplicación desplegada: [https://seajewels-20.vercel.app/](https://seajewels-20.vercel.app/)
 
 ---
 
