@@ -18,7 +18,7 @@
 ## Manuales
 
 - Manual de usuario: [https://drive.google.com/file/d/1_yXXe68sBjs96CcWzZjWhGqbd9lFDDNH/view?usp=drive_link](https://drive.google.com/file/d/1_yXXe68sBjs96CcWzZjWhGqbd9lFDDNH/view?usp=drive_link)
--Manual técnico: [](URL_DEL_MANUAL_TECNICO)
+- Manual técnico: [https://drive.google.com/file/d/1K3S8G_mcf_Lr5sVNenGoi8nC_WQLjr6t/view?usp=drive_link](https://drive.google.com/file/d/1K3S8G_mcf_Lr5sVNenGoi8nC_WQLjr6t/view?usp=drive_link)
 
 ---
 
