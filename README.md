@@ -1,5 +1,5 @@
 # seajewels
-## Enlace a la aplicación
+## Enlace al sitio web 
 
 Aplicación desplegada: [https://miproyecto.netlify.app](https://miproyecto.netlify.app)
 
@@ -7,10 +7,11 @@ Aplicación desplegada: [https://miproyecto.netlify.app](https://miproyecto.netl
 
 ## Integrantes del equipo
 
-- Nombre completo 1 (Grupo X)
-- Nombre completo 2 (Grupo X)
-- Nombre completo 3 (Grupo X)
-- ...
+- Odaly Rachel Cruz Franco CF252175
+- Diego Noel Henríquez Ponce HP160046
+- Mariana Maytee López Gómez LG252169
+- Jonathan Ronaldo Mejía Ayala MA251918
+- Gabriela María Flores Noguera FN230267
 
 ---
 
@@ -23,7 +24,7 @@ Aplicación desplegada: [https://miproyecto.netlify.app](https://miproyecto.netl
 
 ## Tablero de trabajo
 
-- [Trello/Notion](URL_DEL_TABLERO)
+- [Notion](https://nice-country-402.notion.site/1fed6ae09ac18077989ff96694472fd7?v=1fed6ae09ac18106bbce000c1ce7a720)
 
 ---
 
