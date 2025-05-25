@@ -1,7 +1,7 @@
 # Sea Jewels
 ## Enlace al sitio web 
 
-Aplicación desplegada: [https://seajewels-20.vercel.app/](https://seajewels-20.vercel.app/)
+[https://seajewels-20.vercel.app/](https://seajewels-20.vercel.app/)
 
 ---
 
